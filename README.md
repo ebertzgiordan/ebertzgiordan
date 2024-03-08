@@ -9,5 +9,11 @@ Opa tranquilo?😁 Meu nome é Giordan Ebertz!
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebertzgiordan&layoutcomact&langs_count=16&theme=dark"/>
 </div>
   <div style: incline_block"><br>
-<img align="center" alt="Ibere- HTML" height="30" width="40" src="<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"/>
-  </div>
+<img align="center" alt="Ibere- HTML" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="center" alt="Ibere- HTML" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="center" alt="Ibere- HTML" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" alt="Ibere- HTML" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="center" alt="Ibere- HTML" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+          
+  </div>    
