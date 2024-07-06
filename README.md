@@ -1,6 +1,6 @@
 Opa tranquilo?😁 Meu nome é Giordan Ebertz!
 
-- 🔭 Atualmente trabalho como ajudante de eletricista
+- 🔭 Atualmente trabalho como eletricista
 - 🌱 Fazendo faculdade de Ciência da Computação
 - ⚡ Ainda não fiquei louco!
 <div>
